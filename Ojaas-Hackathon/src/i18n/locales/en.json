@@ -1,0 +1,49 @@
+{
+    "tagline": "Hyperlocal Crisis Activation Platform",
+    "hero_title_1": "Your community",
+    "hero_title_2": "responds faster in a",
+    "hero_highlight": "critical moment",
+    "hero_description": "When emergencies happen, the closest help is often a neighbour. NearHelp activates verified responders within your radius, enabling real-time SOS broadcasting, live tracking, and AI-guided crisis assistance when every second matters.",
+    "activate": "Activate Platform",
+    "explore": "Explore Features",
+  
+    "features_title": "Platform Capabilities",
+  
+    "feature1_title": "SOS Broadcasting",
+    "feature1_desc": "Trigger crisis alerts with auto-detected location. WebSocket-based broadcasting within configurable radius. Pulsing live map pin updates instantly.",
+  
+    "feature2_title": "Responder Flow",
+    "feature2_desc": "Nearby users tap “I’m Responding”. Broadcaster views live responder locations and coordinates via direct chat.",
+  
+    "feature3_title": "Skill Registry Layer",
+    "feature3_desc": "CPR-certified volunteers, doctors, and skilled responders highlighted dynamically during active emergencies.",
+  
+    "feature4_title": "Trust & AI Assistant",
+    "feature4_desc": "AI-powered crisis guidance, emergency summaries, response history ratings, misuse detection, and anonymous threat-mode activation.",
+    "stat1_label": "Configurable SOS Radius",
+
+"stat2_value": "Real-time",
+"stat2_label": "Live Map Broadcasting",
+
+"stat3_value": "AI Assisted",
+"stat3_label": "Guided First Response",
+
+"stat4_value": "Offline SMS",
+"stat4_label": "Emergency SMS Fallback Mode",
+
+    "stats": {
+      "sosRadius": {
+        "value": "500m–2km",
+        "label": "Configurable SOS Radius"
+      },
+      "liveMap": {
+        "value": "Real-time",
+        "label": "Live Map Broadcasting"
+      },
+      "aiResponse": {
+        "value": "AI Assisted",
+        "label": "Guided First Response"
+      }
+    }
+  }
+  

@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+@keyframes radarPulse {
+    0% {
+      transform: scale(0.5);
+      opacity: 0.6;
+    }
+    100% {
+      transform: scale(2.5);
+      opacity: 0;
+    }
+  }
+  
+  .radar-ring {
+    position: absolute;
+    border-radius: 9999px;
+    background-color: rgba(239, 68, 68, 0.5);
+    animation: radarPulse 2s linear infinite;
+  }
