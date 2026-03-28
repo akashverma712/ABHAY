@@ -36,10 +36,9 @@ app.post("/send-sos", async (req, res) => {
 
     const messageBody = `
 🚨 SOS ALERT!
-Name: ${name}
-Location: https://www.google.com/maps?q=${latitude},${longitude}
+Name: Akash Verma
+Location: https://www.google.com/maps?q=22.775481,86.146571
 `;
-
     const message = await client.messages.create({
       body: messageBody,
       from: FROM_NUMBER,
